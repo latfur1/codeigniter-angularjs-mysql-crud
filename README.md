@@ -1,5 +1,5 @@
 
-#CODEIGNITER ANGULARJS-MySQL-CRUD
+#CODEIGNITER ANGULARJS MySQL CRUD
 <b>Resource:</b> 
 1. Angularjs
 2. Codeigniter 3
