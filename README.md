@@ -1,10 +1,10 @@
 
-#CODEIGNITER ANGULARJS-PHP-MySQL-CRUD
+#CODEIGNITER ANGULARJS-MySQL-CRUD
 <b>Resource:</b> 
-1. Bootstrap 
-2. Angularjs
-3. Codeigniter 3
-4. MySQL
+1. Angularjs
+2. Codeigniter 3
+3. MySQL
+ 
 
 
 <b>Feature:</b> 
