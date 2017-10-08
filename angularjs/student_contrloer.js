@@ -58,7 +58,7 @@ myApp.controller('student_contrloer', function ($scope, $state, $http, $location
     };
 
 
-    this.view_student_info = function (student_id) {
+    this.get_student_info = function (student_id) {
         $http.get(APP_CONSTANTS.BASE_URL+'/student/view_student_by_student_id?student_id=' + student_id).then(function (response) {
             vm.view_student_info = response.data;
 
