@@ -16,5 +16,5 @@
 5. Search Option
 6. Pagination
 
-<a  href="http://dev.codeenable.com/angularjs-ci-mysql-crud-demo/" target="_blank" >Demo</a>
+<a  href="http://dev.techcanvas.org/angularjs-ci-mysql-crud-demo/" target="_blank" >Demo</a>
 
